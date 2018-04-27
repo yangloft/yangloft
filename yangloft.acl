@@ -6024,5 +6024,4 @@
 (^|\.)icntv\.xyz$
 (^|\.)flzbcdn\.xyz$
 
-#googleapi
-#services.googleapi.cn
+(^|\.)googleapi.cn$
